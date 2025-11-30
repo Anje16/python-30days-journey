@@ -5,7 +5,7 @@
 
 ## 📝 Daily Log
 
-### Day 1 - [Today's Date]
+### Day 1 - 30-11-2015
 **Topics:** Variables, Data Types, Basic Operations
 **Time Spent:** 2.5 hours
 **What I Learned:**
